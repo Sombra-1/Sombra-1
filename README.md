@@ -1,6 +1,6 @@
 # Hi, I'm Aiham — but everyone calls me Ayhm 👋
 
-**Computer & Control Engineer** | Cybersecurity & AI Developer | Basrah, Iraq 🇮🇶
+**Computer & Control Engineer** | Cybersecurity & AI Developer
 
 I build **practical, no-bullshit tools** that actually solve problems — for pentesters, researchers, and developers.
 If you've ever wanted a tool that works offline, runs fast, and doesn't require a PhD to use — you're in the right place.
@@ -23,12 +23,11 @@ I'm always happy to talk — whether it's about a collab, a question, or just ge
 
 ## 🧠 About Me
 
-- 🎓 BSc in **Control & Computer Engineering** — Al-Maaqal University, Basrah
+- 🎓 BSc in **Control & Computer Engineering** — Al-Maaqal University
 - 🔐 Specializing in **AI-powered security tools**, penetration testing, and CLI utilities
 - 🤖 Built real-time AI assistants, GPU-accelerated vision systems, and a 6-legged robot
 - 🏛️ Former **Head of the Cybersecurity Department** & lecturer at Al-Maaqal University
 - 🎤 Speaker: *"The Future of AI and Cybersecurity"* — 150+ attendees
-- 🌍 Based in Basrah, Iraq — working with people worldwide
 - 🎸 Also into guitar, fitness, and robotics when not hacking things together
 
 ---
@@ -72,4 +71,4 @@ I'm always happy to talk — whether it's about a collab, a question, or just ge
 
 ---
 
-*📍 Basrah, Iraq · 📧 ay1hmbusiness@gmail.com · 🌐 [portfolio.ayhm.workers.dev](https://portfolio.ayhm.workers.dev)*
+*📧 ay1hmbusiness@gmail.com · 🌐 [portfolio.ayhm.workers.dev](https://portfolio.ayhm.workers.dev)*
