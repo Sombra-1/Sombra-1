@@ -16,13 +16,13 @@ First consultation is free — Got a tech or security question? Just message me.
 
 ## About Me
 
-BSc in Control & Computer Engineering — Al-Maaqal University
+BSc in Control & Computer Engineering
 
 Specializing in AI-powered security tools, penetration testing, and CLI utilities
 
 Built real-time AI assistants, GPU-accelerated vision systems, and a 6-legged robot
 
-Former Head of the Cybersecurity Department & lecturer at Al-Maaqal University
+Former Head of the Cybersecurity Department & lecturer 
 
 Speaker: "The Future of AI and Cybersecurity" — 150+ attendees
 
