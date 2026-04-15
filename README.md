@@ -1,4 +1,4 @@
-# Hi, I'm Aiham — but everyone calls me Ayhm 👋
+# Hi, I'm Ayhm 👋
 
 **Computer & Control Engineer** | Cybersecurity & AI Developer
 
