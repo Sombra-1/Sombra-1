@@ -24,10 +24,6 @@ Built real-time AI assistants, GPU-accelerated vision systems, and a 6-legged ro
 
 Former Head of the Cybersecurity Department & lecturer 
 
-Speaker: "The Future of AI and Cybersecurity" — 150+ attendees
-
-Also into guitar, fitness, and robotics when not hacking things together
-
 ---
 
 ## Featured Projects
