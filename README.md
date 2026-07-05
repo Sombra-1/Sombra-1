@@ -2,7 +2,7 @@
 
 **Computer & Control Engineer** | Cybersecurity & AI Developer
 
-I build **practical. That actually solve problems — for pentesters, researchers, and developers. If you've ever wanted a tool that works offline**.
+I build **practical. That actually solve problems; for pentesters, researchers, and developers. If you've ever wanted a tool that works offline**.
 ---
 
 ## Let's Connect
